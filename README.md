@@ -1,2 +1,2 @@
 # Methodology
-*hello*
+*hello
